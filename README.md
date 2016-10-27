@@ -8,9 +8,9 @@ Bots são nossa alegria mais nerde, mais incompreensível a olhos humanos, mais 
 
 # BOTS 
 
-- [@Placabot](https://web.telegram.org/#/im?p=@placabot) PlacaBot - Faça consulta do status de placas de veículos aqui!
+- [@Placabot](https://web.telegram.org/#/im?p=@placabot) - PlacaBot - Faça consulta do status de placas de veículos aqui!
 
-- [@msrobot](https://web.telegram.org/#/im?p=@msrobot) Ms. Robot - Ela faz tanta coisa que daqui a pouco tá passando seu café matinal com panquecas.
+- [@msrobot](https://web.telegram.org/#/im?p=@msrobot) - Ms. Robot - Ela faz tanta coisa que daqui a pouco tá passando seu café matinal com panquecas.
 
 ## Achei/tenho um bot legal e quero contribuir
 
