@@ -12,8 +12,6 @@ Bots são nossa alegria mais nerde, mais incompreensível a olhos humanos, mais 
 
 - [@msrobot](https://web.telegram.org/#/im?p=@msrobot) - Ms. Robot - Ela faz tanta coisa que daqui a pouco tá passando seu café matinal com panquecas.
 
-- [@caiquebot](https://web.telegram.org/#/im?p=@caiquebot) - Peko - Um bot para trocar umas ideias e discutir sobre o sentido da vida.
-
 
 ## Achei/tenho um bot legal e quero contribuir
 
