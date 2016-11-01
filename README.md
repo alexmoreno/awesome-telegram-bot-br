@@ -1,5 +1,5 @@
 # awesome-telegram-bot-br
-Uma lista curada (!) de bots do telegram pra autistas especializados!
+Uma lista curada (! <sup>eu não sei o que significa curada, mas todo mundo escreve, então </sup>) de bots do telegram pra autistas especializados!
 
 Tem gente que acha que quem usa telegram só quer pagar de hipster, o que não deixa de ser verdade. Mas há duas coisas que faz a gente não deslargar o telegram nunca mais assim que instalamos ele no nosso lindo smartFone:
 Stickers e bots.
