@@ -8,11 +8,13 @@ Bots são nossa alegria mais nerde, mais incompreensível a olhos humanos, mais 
 
 # BOTS 
 
-- [@Placabot](https://web.telegram.org/#/im?p=@placabot) - PlacaBot - Faça consulta do status de placas de veículos aqui!
+- [@Placabot](https://telegram.me/placabot) - PlacaBot - Faça consulta do status de placas de veículos aqui!
 
-- [@msrobot](https://web.telegram.org/#/im?p=@msrobot) - Ms. Robot - Ela faz tanta coisa que daqui a pouco tá passando seu café matinal com panquecas.
+- [@msrobot](https://telegram.me/msrobot) - Ms. Robot - Ela faz tanta coisa que daqui a pouco tá passando seu café matinal com panquecas.
 
-- [@caiquebot](https://web.telegram.org/#/im?p=@caiquebot) - Peko - Um bot para trocar umas ideias e discutir sobre o sentido da vida.
+- [@caiquebot](https://telegram.me/caiquebot) - Peko - Um bot para trocar umas ideias e discutir sobre o sentido da vida.
+
+- [@netflixnewsbot](https://telegram.me/netflixnewsbot) - Netflix News Bot - Um bot que te manda novidades de séries do netflix. Te lembra de dar aquela relaxada com um bom filme ou uma nova temporada aparece. Suporta o Netflix BR.
 
 
 ## Achei/tenho um bot legal e quero contribuir
