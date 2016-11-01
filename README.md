@@ -17,4 +17,4 @@ Bots são nossa alegria mais nerde, mais incompreensível a olhos humanos, mais 
 
 ## Achei/tenho um bot legal e quero contribuir
 
-PRzeia aí, bichão!
+PRzeia aí, bichão!!
