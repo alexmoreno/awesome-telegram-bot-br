@@ -6,13 +6,13 @@ Stickers e bots.
 
 Bots são nossa alegria mais nerde, mais incompreensível a olhos humanos, mais próxima que temos de ser um tesla com carros dirigindo sozinhos na nossa pífia realidade brazuca. Por isso mesmo, pra ajudar a todos nós, programadores pobretões, que montaremos essa lista para que possamos torrar nosso tempo que devíamos estar programando, brincando com máquinas falantes que ririam da nossa cara se tivessem consciência.
 
-# BOTS 
+# BOTS
 
 - [@Placabot](https://telegram.me/placabot) - PlacaBot - Faça consulta do status de placas de veículos aqui!
 
 - [@msrobot](https://telegram.me/msrobot) - Ms. Robot - Ela faz tanta coisa que daqui a pouco tá passando seu café matinal com panquecas.
 
-- [@caiquebot](https://telegram.me/caiquebot) - Peko - Um bot para trocar umas ideias e discutir sobre o sentido da vida.
+- [@CabecaBot](https://telegram.me/CabecaBot) - Cabeça - Um bot para trocar umas ideias e discutir sobre o sentido da vida.
 
 - [@netflixnewsbot](https://telegram.me/netflixnewsbot) - Netflix News Bot - Um bot que te manda novidades de séries do netflix. Te lembra de dar aquela relaxada com um bom filme ou uma nova temporada aparece. Suporta o Netflix BR.
 
