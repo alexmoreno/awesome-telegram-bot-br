@@ -18,6 +18,8 @@ Bots são nossa alegria mais nerde, mais incompreensível a olhos humanos, mais 
 
 - [@bemean_oficialbot](https://telegram.me/bemean_oficialbot) - BeMEAN Bot - Ele pesquisa, é zoeiro, é Open Source, e é gente boa. Além disso, pode executar operações matemáticas e um pouco de JavaScript direto do Telegram. Ótimo com grupos.
 
+- [@rastreamentobot](https://telegram.me/rastreamentobot) - RastreamentoBot - Faça consulta do último status da sua encomenda nos correios! Só enviar seu código de rastreio pra ele.
+
 ## Achei/tenho um bot legal e quero contribuir
 
 PRzeia aí, bichão!!
